@@ -1,0 +1,28 @@
+react app
+
+
+
+npm create vite -----
+cd ---
+cd install
+code.
+open the terminal
+
+npm i react-router-dom
+npm i react-bootstrap
+npm i axios
+npm i react-toastify
+
+
+express app
+
+open the folder some name
+
+npm init
+package json add=> "type":"module"
+                   "engines":  node:18:18.0
+
+remove test script.
+npm i express cors mongoose jsonwebtoken bcryptjs dotenv 
+git init
+ 
