@@ -1,0 +1,3 @@
+This is a React section code mini task to pratices
+How to create button added some other relavent feture....etc 
+pratices well...
